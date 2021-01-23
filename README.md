@@ -8,5 +8,5 @@
     * VAEs live in the directly estimated maximum likelihood model family.
     
     output image:
-    ![vae output](https://github.com/ada-k/GANSinAction-TheLangrBook/blob/main/output%20images/vae.png =250x250)
+    ![vae output](https://github.com/ada-k/GANSinAction-TheLangrBook/blob/main/output%20images/vae.png)
 * chapter3 - Generating handwritten digits using GANs
