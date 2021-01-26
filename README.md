@@ -10,8 +10,8 @@
     output image:
     ![vae output](https://github.com/ada-k/GANSinAction-TheLangrBook/blob/main/output%20images/vae.png)
 * chapter3 - Generating handwritten digits using GANs
- * Using a simple 2-layer network architecture both for the Generator and the Discriminator.
- * Now a more powerful network architecture is introduced: CNN GANs.
- * No image this time - matplotlib limits - will find a fix for this.
+  * Using a simple 2-layer network architecture both for the Generator and the Discriminator.
+  * Now a more powerful network architecture is introduced: CNN GANs.
+  * No image this time - matplotlib limits - will find a fix for this.
  
 * chapter4 - Deep Convolutional GAN
