@@ -15,3 +15,6 @@
   * No image this time - matplotlib limits - will find a fix for this.
  
 * chapter4 - Deep Convolutional GAN
+  * why DCGAN yet it worsens the problem of instability and gradient saturation during GAN training:
+    * Use of batch normalization which stabilises the training process.
+  
